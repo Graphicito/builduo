@@ -1,13 +1,11 @@
-# Builduo:
+# Builduo: Build and Deploy Powerful API Backends in Minutes - With English or Code 🔥
 
 ![image](https://github.com/user-attachments/assets/3645a4ae-2bd3-4987-a5b8-bb06d609bc23)
 
 Discord: [Join our community here]([url](https://discord.gg/7VYFyQT3He))!
 
 Website: Coming Soon!
-
-## Build and Deploy Powerful API Backends in Minutes - With English or Code 🔥
-
+___
 
 If you want to build and deploy powerful APIs in minutes, you don’t want to miss Builduo. Builduo is UNLIKE your neighbor’s cranky tool. You can develop in English or customize any endpoint function with code. Frank may have told you their tool is limited, but Builduo is easy to set up, flexible, and customizable.
 
