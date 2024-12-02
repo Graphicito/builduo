@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/3645a4ae-2bd3-4987-a5b8-bb06d609bc23)
 
-Discord: [Join our community here]([url](https://discord.gg/7VYFyQT3He))!
+Discord: [Join our community here](https://discord.gg/7VYFyQT3He)!
 
 Website: Coming Soon!
 ___
