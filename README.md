@@ -1,9 +1,10 @@
 # Builduo:
+
+![image](https://github.com/user-attachments/assets/3645a4ae-2bd3-4987-a5b8-bb06d609bc23)
+
 Discord: [Join our community here]([url](https://discord.gg/7VYFyQT3He))!
 
 Website: Coming Soon!
-
-![image](https://github.com/user-attachments/assets/3645a4ae-2bd3-4987-a5b8-bb06d609bc23)
 
 ## Build and Deploy Powerful API Backends in Minutes - With English or Code 🔥
 
@@ -30,3 +31,14 @@ Develop a full backend API and skip the setup with Builduo. Suitable for non-cod
 
 ### Test Endpoints As You Build (Endpoint Documentation is Automatically Generated!)
 <img width="1470" alt="Builduo Instant Endpoint Test" src="https://github.com/user-attachments/assets/2eeb9633-a664-44f1-ba88-67e22824de5f">
+
+## FAQS
+#### 1. When is the product launching?
+Checkout our latest roadmap here!
+
+<img width="280" alt="Builduo Launch Date" src="https://github.com/user-attachments/assets/4017b773-e882-43f2-8499-436ddb74c605">
+
+#### 2. Will there be a free plan?
+Yes there will be a generous free plan, especially for Alpha and Beta participants.
+#### 3. What stage is Builduo in?
+Builduo is in the Alpha testing stage. We are actively building based on feedback.
